@@ -1,0 +1,9 @@
+Package: com.archiverxp.teststar
+Name: TestStar
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Allison
+Author: Allison
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
